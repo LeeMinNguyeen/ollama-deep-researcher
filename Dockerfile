@@ -29,7 +29,7 @@ CMD ["uvx", \
      "--refresh", \
      "--from", "langgraph-cli[inmem]", \
      "--with-editable", ".", \
-     "--python", "3.11", \
+     "--python", "3.12", \
      "langgraph", \
      "dev", \
      "--host", "0.0.0.0"]
